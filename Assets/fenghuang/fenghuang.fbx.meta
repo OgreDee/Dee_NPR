@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 3e8ea9339cc29c440be52594b6de4f53
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: niao_03:group1
+    100004: niao_03:group2
+    100006: niao_03:Mesh
+    100008: niao_03:Mesh2
+    100010: niao_03:Mesh3
+    100012: niao_03:Mesh4
+    100014: niao_03:Mesh5
+    100016: niao_03:Mesh5 1
+    100018: niao_03:Mesh6
+    100020: niao_03:niao_03:polySurface103
+    100022: niao_03:polySurface100
+    100024: niao_03:polySurface104
+    100026: niao_03:polySurface104 1
+    100028: niao_03:polySurface107
+    100030: niao_03:polySurface108
+    100032: niao_03:polySurface109
+    100034: niao_03:polySurface11
+    100036: niao_03:polySurface110
+    100038: niao_03:polySurface117
+    100040: niao_03:polySurface117 1
+    100042: niao_03:polySurface118
+    100044: niao_03:polySurface118 1
+    100046: niao_03:polySurface119
+    100048: niao_03:polySurface119 1
+    100050: niao_03:polySurface120
+    100052: niao_03:polySurface120 1
+    100054: niao_03:polySurface121
+    100056: niao_03:polySurface121 1
+    100058: niao_03:polySurface122
+    100060: niao_03:polySurface122 1
+    100062: niao_03:polySurface123
+    100064: niao_03:polySurface123 1
+    100066: niao_03:polySurface124
+    100068: niao_03:polySurface124 1
+    100070: niao_03:polySurface125
+    100072: niao_03:polySurface125 1
+    100074: niao_03:polySurface126
+    100076: niao_03:polySurface126 1
+    100078: niao_03:polySurface127
+    100080: niao_03:polySurface127 1
+    100082: niao_03:polySurface128
+    100084: niao_03:polySurface128 1
+    100086: niao_03:polySurface129
+    100088: niao_03:polySurface129 1
+    100090: niao_03:polySurface13
+    100092: niao_03:polySurface13 1
+    100094: niao_03:polySurface130
+    100096: niao_03:polySurface131
+    100098: niao_03:polySurface132
+    100100: niao_03:polySurface133
+    100102: niao_03:polySurface134
+    100104: niao_03:polySurface135
+    100106: niao_03:polySurface15
+    100108: niao_03:polySurface16
+    100110: niao_03:polySurface17
+    100112: niao_03:polySurface18
+    100114: niao_03:polySurface18 1
+    100116: niao_03:polySurface20
+    100118: niao_03:polySurface20 1
+    100120: niao_03:polySurface21
+    100122: niao_03:polySurface21 1
+    100124: niao_03:polySurface28
+    100126: niao_03:polySurface28 1
+    100128: niao_03:polySurface29
+    100130: niao_03:polySurface29 1
+    100132: niao_03:polySurface31
+    100134: niao_03:polySurface31 1
+    100136: niao_03:polySurface32
+    100138: niao_03:polySurface32 1
+    100140: niao_03:polySurface33
+    100142: niao_03:polySurface33 1
+    100144: niao_03:polySurface48
+    100146: niao_03:polySurface48 1
+    100148: niao_03:polySurface49
+    100150: niao_03:polySurface49 1
+    100152: niao_03:polySurface50
+    100154: niao_03:polySurface50 1
+    100156: niao_03:polySurface51
+    100158: niao_03:polySurface51 1
+    100160: niao_03:polySurface52
+    100162: niao_03:polySurface52 1
+    100164: niao_03:polySurface86
+    100166: niao_03:polySurface91
+    100168: niao_03:polySurface94
+    100170: niao_03:polySurface96
+    100172: niao_03:polySurface97
+    100174: niao_03:polySurface98
+    100176: niao_03:polySurface99
+    100178: niao_03:q1_unfold3d10:Mesh
+    100180: niao_03:q1_unfold3d11:Mesh
+    100182: niao_03:q1_unfold3d12:Mesh
+    100184: niao_03:q1_unfold3d13:Mesh
+    100186: niao_03:q1_unfold3d14:Mesh
+    100188: niao_03:q1_unfold3d15:Mesh
+    100190: niao_03:q1_unfold3d16:Mesh
+    100192: niao_03:q1_unfold3d17:Mesh
+    100194: niao_03:q1_unfold3d18:Mesh
+    100196: niao_03:q1_unfold3d19:Mesh
+    100198: niao_03:q1_unfold3d1:Mesh
+    100200: niao_03:q1_unfold3d20:Mesh
+    100202: niao_03:q1_unfold3d21:Mesh
+    100204: niao_03:q1_unfold3d22:Mesh
+    100206: niao_03:q1_unfold3d23:Mesh
+    100208: niao_03:q1_unfold3d24:Mesh
+    100210: niao_03:q1_unfold3d25:Mesh
+    100212: niao_03:q1_unfold3d2:Mesh
+    100214: niao_03:q1_unfold3d3:Mesh
+    100216: niao_03:q1_unfold3d4:Mesh
+    100218: niao_03:q1_unfold3d5:Mesh
+    100220: niao_03:q1_unfold3d6:Mesh
+    100222: niao_03:q1_unfold3d7:Mesh
+    100224: niao_03:q1_unfold3d8:Mesh
+    100226: niao_03:q1_unfold3d9:Mesh
+    100228: niao_03:q1_unfold3d:Mesh
+    100230: niao_03:transform1
+    100232: niao_03:transform10
+    100234: niao_03:transform11
+    100236: niao_03:transform12
+    100238: niao_03:transform13
+    100240: niao_03:transform14
+    100242: niao_03:transform15
+    100244: niao_03:transform16
+    100246: niao_03:transform17
+    100248: niao_03:transform18
+    100250: niao_03:transform19
+    100252: niao_03:transform2
+    100254: niao_03:transform20
+    100256: niao_03:transform21
+    100258: niao_03:transform22
+    100260: niao_03:transform23
+    100262: niao_03:transform24
+    100264: niao_03:transform25
+    100266: niao_03:transform26
+    100268: niao_03:transform27
+    100270: niao_03:transform28
+    100272: niao_03:transform29
+    100274: niao_03:transform3
+    100276: niao_03:transform36
+    100278: niao_03:transform37
+    100280: niao_03:transform38
+    100282: niao_03:transform4
+    100284: niao_03:transform5
+    100286: niao_03:transform9
+    400000: //RootNode
+    400002: niao_03:group1
+    400004: niao_03:group2
+    400006: niao_03:Mesh
+    400008: niao_03:Mesh2
+    400010: niao_03:Mesh3
+    400012: niao_03:Mesh4
+    400014: niao_03:Mesh5
+    400016: niao_03:Mesh5 1
+    400018: niao_03:Mesh6
+    400020: niao_03:niao_03:polySurface103
+    400022: niao_03:polySurface100
+    400024: niao_03:polySurface104
+    400026: niao_03:polySurface104 1
+    400028: niao_03:polySurface107
+    400030: niao_03:polySurface108
+    400032: niao_03:polySurface109
+    400034: niao_03:polySurface11
+    400036: niao_03:polySurface110
+    400038: niao_03:polySurface117
+    400040: niao_03:polySurface117 1
+    400042: niao_03:polySurface118
+    400044: niao_03:polySurface118 1
+    400046: niao_03:polySurface119
+    400048: niao_03:polySurface119 1
+    400050: niao_03:polySurface120
+    400052: niao_03:polySurface120 1
+    400054: niao_03:polySurface121
+    400056: niao_03:polySurface121 1
+    400058: niao_03:polySurface122
+    400060: niao_03:polySurface122 1
+    400062: niao_03:polySurface123
+    400064: niao_03:polySurface123 1
+    400066: niao_03:polySurface124
+    400068: niao_03:polySurface124 1
+    400070: niao_03:polySurface125
+    400072: niao_03:polySurface125 1
+    400074: niao_03:polySurface126
+    400076: niao_03:polySurface126 1
+    400078: niao_03:polySurface127
+    400080: niao_03:polySurface127 1
+    400082: niao_03:polySurface128
+    400084: niao_03:polySurface128 1
+    400086: niao_03:polySurface129
+    400088: niao_03:polySurface129 1
+    400090: niao_03:polySurface13
+    400092: niao_03:polySurface13 1
+    400094: niao_03:polySurface130
+    400096: niao_03:polySurface131
+    400098: niao_03:polySurface132
+    400100: niao_03:polySurface133
+    400102: niao_03:polySurface134
+    400104: niao_03:polySurface135
+    400106: niao_03:polySurface15
+    400108: niao_03:polySurface16
+    400110: niao_03:polySurface17
+    400112: niao_03:polySurface18
+    400114: niao_03:polySurface18 1
+    400116: niao_03:polySurface20
+    400118: niao_03:polySurface20 1
+    400120: niao_03:polySurface21
+    400122: niao_03:polySurface21 1
+    400124: niao_03:polySurface28
+    400126: niao_03:polySurface28 1
+    400128: niao_03:polySurface29
+    400130: niao_03:polySurface29 1
+    400132: niao_03:polySurface31
+    400134: niao_03:polySurface31 1
+    400136: niao_03:polySurface32
+    400138: niao_03:polySurface32 1
+    400140: niao_03:polySurface33
+    400142: niao_03:polySurface33 1
+    400144: niao_03:polySurface48
+    400146: niao_03:polySurface48 1
+    400148: niao_03:polySurface49
+    400150: niao_03:polySurface49 1
+    400152: niao_03:polySurface50
+    400154: niao_03:polySurface50 1
+    400156: niao_03:polySurface51
+    400158: niao_03:polySurface51 1
+    400160: niao_03:polySurface52
+    400162: niao_03:polySurface52 1
+    400164: niao_03:polySurface86
+    400166: niao_03:polySurface91
+    400168: niao_03:polySurface94
+    400170: niao_03:polySurface96
+    400172: niao_03:polySurface97
+    400174: niao_03:polySurface98
+    400176: niao_03:polySurface99
+    400178: niao_03:q1_unfold3d10:Mesh
+    400180: niao_03:q1_unfold3d11:Mesh
+    400182: niao_03:q1_unfold3d12:Mesh
+    400184: niao_03:q1_unfold3d13:Mesh
+    400186: niao_03:q1_unfold3d14:Mesh
+    400188: niao_03:q1_unfold3d15:Mesh
+    400190: niao_03:q1_unfold3d16:Mesh
+    400192: niao_03:q1_unfold3d17:Mesh
+    400194: niao_03:q1_unfold3d18:Mesh
+    400196: niao_03:q1_unfold3d19:Mesh
+    400198: niao_03:q1_unfold3d1:Mesh
+    400200: niao_03:q1_unfold3d20:Mesh
+    400202: niao_03:q1_unfold3d21:Mesh
+    400204: niao_03:q1_unfold3d22:Mesh
+    400206: niao_03:q1_unfold3d23:Mesh
+    400208: niao_03:q1_unfold3d24:Mesh
+    400210: niao_03:q1_unfold3d25:Mesh
+    400212: niao_03:q1_unfold3d2:Mesh
+    400214: niao_03:q1_unfold3d3:Mesh
+    400216: niao_03:q1_unfold3d4:Mesh
+    400218: niao_03:q1_unfold3d5:Mesh
+    400220: niao_03:q1_unfold3d6:Mesh
+    400222: niao_03:q1_unfold3d7:Mesh
+    400224: niao_03:q1_unfold3d8:Mesh
+    400226: niao_03:q1_unfold3d9:Mesh
+    400228: niao_03:q1_unfold3d:Mesh
+    400230: niao_03:transform1
+    400232: niao_03:transform10
+    400234: niao_03:transform11
+    400236: niao_03:transform12
+    400238: niao_03:transform13
+    400240: niao_03:transform14
+    400242: niao_03:transform15
+    400244: niao_03:transform16
+    400246: niao_03:transform17
+    400248: niao_03:transform18
+    400250: niao_03:transform19
+    400252: niao_03:transform2
+    400254: niao_03:transform20
+    400256: niao_03:transform21
+    400258: niao_03:transform22
+    400260: niao_03:transform23
+    400262: niao_03:transform24
+    400264: niao_03:transform25
+    400266: niao_03:transform26
+    400268: niao_03:transform27
+    400270: niao_03:transform28
+    400272: niao_03:transform29
+    400274: niao_03:transform3
+    400276: niao_03:transform36
+    400278: niao_03:transform37
+    400280: niao_03:transform38
+    400282: niao_03:transform4
+    400284: niao_03:transform5
+    400286: niao_03:transform9
+    2100000: niao_03_fenghuang_3
+    2100002: niao_03_blinn1
+    2300000: niao_03:Mesh
+    2300002: niao_03:Mesh2
+    2300004: niao_03:Mesh3
+    2300006: niao_03:Mesh5
+    2300008: niao_03:Mesh5 1
+    2300010: niao_03:Mesh6
+    2300012: niao_03:polySurface104
+    2300014: niao_03:polySurface104 1
+    2300016: niao_03:polySurface11
+    2300018: niao_03:polySurface117
+    2300020: niao_03:polySurface117 1
+    2300022: niao_03:polySurface118
+    2300024: niao_03:polySurface118 1
+    2300026: niao_03:polySurface119
+    2300028: niao_03:polySurface119 1
+    2300030: niao_03:polySurface120
+    2300032: niao_03:polySurface120 1
+    2300034: niao_03:polySurface121
+    2300036: niao_03:polySurface121 1
+    2300038: niao_03:polySurface122
+    2300040: niao_03:polySurface122 1
+    2300042: niao_03:polySurface123
+    2300044: niao_03:polySurface123 1
+    2300046: niao_03:polySurface124
+    2300048: niao_03:polySurface124 1
+    2300050: niao_03:polySurface125
+    2300052: niao_03:polySurface125 1
+    2300054: niao_03:polySurface126
+    2300056: niao_03:polySurface126 1
+    2300058: niao_03:polySurface127
+    2300060: niao_03:polySurface127 1
+    2300062: niao_03:polySurface128
+    2300064: niao_03:polySurface128 1
+    2300066: niao_03:polySurface129
+    2300068: niao_03:polySurface129 1
+    2300070: niao_03:polySurface13
+    2300072: niao_03:polySurface13 1
+    2300074: niao_03:polySurface130
+    2300076: niao_03:polySurface131
+    2300078: niao_03:polySurface132
+    2300080: niao_03:polySurface133
+    2300082: niao_03:polySurface134
+    2300084: niao_03:polySurface135
+    2300086: niao_03:polySurface16
+    2300088: niao_03:polySurface17
+    2300090: niao_03:polySurface18
+    2300092: niao_03:polySurface18 1
+    2300094: niao_03:polySurface20
+    2300096: niao_03:polySurface20 1
+    2300098: niao_03:polySurface21
+    2300100: niao_03:polySurface21 1
+    2300102: niao_03:polySurface28
+    2300104: niao_03:polySurface28 1
+    2300106: niao_03:polySurface29
+    2300108: niao_03:polySurface29 1
+    2300110: niao_03:polySurface31
+    2300112: niao_03:polySurface31 1
+    2300114: niao_03:polySurface32
+    2300116: niao_03:polySurface32 1
+    2300118: niao_03:polySurface33
+    2300120: niao_03:polySurface33 1
+    2300122: niao_03:polySurface48
+    2300124: niao_03:polySurface48 1
+    2300126: niao_03:polySurface49
+    2300128: niao_03:polySurface49 1
+    2300130: niao_03:polySurface50
+    2300132: niao_03:polySurface50 1
+    2300134: niao_03:polySurface51
+    2300136: niao_03:polySurface51 1
+    2300138: niao_03:polySurface52
+    2300140: niao_03:polySurface52 1
+    2300142: niao_03:polySurface97
+    2300144: niao_03:polySurface99
+    2300146: niao_03:q1_unfold3d1:Mesh
+    2300148: niao_03:q1_unfold3d21:Mesh
+    2300150: niao_03:q1_unfold3d22:Mesh
+    2300152: niao_03:q1_unfold3d23:Mesh
+    2300154: niao_03:q1_unfold3d25:Mesh
+    2300156: niao_03:q1_unfold3d2:Mesh
+    2300158: niao_03:q1_unfold3d3:Mesh
+    2300160: niao_03:q1_unfold3d4:Mesh
+    2300162: niao_03:q1_unfold3d5:Mesh
+    3300000: niao_03:Mesh
+    3300002: niao_03:Mesh2
+    3300004: niao_03:Mesh3
+    3300006: niao_03:Mesh5
+    3300008: niao_03:Mesh5 1
+    3300010: niao_03:Mesh6
+    3300012: niao_03:polySurface104
+    3300014: niao_03:polySurface104 1
+    3300016: niao_03:polySurface11
+    3300018: niao_03:polySurface117
+    3300020: niao_03:polySurface117 1
+    3300022: niao_03:polySurface118
+    3300024: niao_03:polySurface118 1
+    3300026: niao_03:polySurface119
+    3300028: niao_03:polySurface119 1
+    3300030: niao_03:polySurface120
+    3300032: niao_03:polySurface120 1
+    3300034: niao_03:polySurface121
+    3300036: niao_03:polySurface121 1
+    3300038: niao_03:polySurface122
+    3300040: niao_03:polySurface122 1
+    3300042: niao_03:polySurface123
+    3300044: niao_03:polySurface123 1
+    3300046: niao_03:polySurface124
+    3300048: niao_03:polySurface124 1
+    3300050: niao_03:polySurface125
+    3300052: niao_03:polySurface125 1
+    3300054: niao_03:polySurface126
+    3300056: niao_03:polySurface126 1
+    3300058: niao_03:polySurface127
+    3300060: niao_03:polySurface127 1
+    3300062: niao_03:polySurface128
+    3300064: niao_03:polySurface128 1
+    3300066: niao_03:polySurface129
+    3300068: niao_03:polySurface129 1
+    3300070: niao_03:polySurface13
+    3300072: niao_03:polySurface13 1
+    3300074: niao_03:polySurface130
+    3300076: niao_03:polySurface131
+    3300078: niao_03:polySurface132
+    3300080: niao_03:polySurface133
+    3300082: niao_03:polySurface134
+    3300084: niao_03:polySurface135
+    3300086: niao_03:polySurface16
+    3300088: niao_03:polySurface17
+    3300090: niao_03:polySurface18
+    3300092: niao_03:polySurface18 1
+    3300094: niao_03:polySurface20
+    3300096: niao_03:polySurface20 1
+    3300098: niao_03:polySurface21
+    3300100: niao_03:polySurface21 1
+    3300102: niao_03:polySurface28
+    3300104: niao_03:polySurface28 1
+    3300106: niao_03:polySurface29
+    3300108: niao_03:polySurface29 1
+    3300110: niao_03:polySurface31
+    3300112: niao_03:polySurface31 1
+    3300114: niao_03:polySurface32
+    3300116: niao_03:polySurface32 1
+    3300118: niao_03:polySurface33
+    3300120: niao_03:polySurface33 1
+    3300122: niao_03:polySurface48
+    3300124: niao_03:polySurface48 1
+    3300126: niao_03:polySurface49
+    3300128: niao_03:polySurface49 1
+    3300130: niao_03:polySurface50
+    3300132: niao_03:polySurface50 1
+    3300134: niao_03:polySurface51
+    3300136: niao_03:polySurface51 1
+    3300138: niao_03:polySurface52
+    3300140: niao_03:polySurface52 1
+    3300142: niao_03:polySurface97
+    3300144: niao_03:polySurface99
+    3300146: niao_03:q1_unfold3d1:Mesh
+    3300148: niao_03:q1_unfold3d21:Mesh
+    3300150: niao_03:q1_unfold3d22:Mesh
+    3300152: niao_03:q1_unfold3d23:Mesh
+    3300154: niao_03:q1_unfold3d25:Mesh
+    3300156: niao_03:q1_unfold3d2:Mesh
+    3300158: niao_03:q1_unfold3d3:Mesh
+    3300160: niao_03:q1_unfold3d4:Mesh
+    3300162: niao_03:q1_unfold3d5:Mesh
+    4300000: niao_03:polySurface11
+    4300002: niao_03:polySurface99
+    4300004: niao_03:polySurface97
+    4300006: niao_03:polySurface16
+    4300008: niao_03:polySurface17
+    4300010: niao_03:q1_unfold3d1:Mesh
+    4300012: niao_03:Mesh2
+    4300014: niao_03:q1_unfold3d2:Mesh
+    4300016: niao_03:Mesh3
+    4300018: niao_03:q1_unfold3d3:Mesh
+    4300020: niao_03:q1_unfold3d4:Mesh
+    4300022: niao_03:q1_unfold3d5:Mesh
+    4300024: niao_03:q1_unfold3d21:Mesh
+    4300026: niao_03:q1_unfold3d22:Mesh
+    4300028: niao_03:q1_unfold3d23:Mesh
+    4300030: niao_03:polySurface130
+    4300032: niao_03:polySurface131
+    4300034: niao_03:polySurface132
+    4300036: niao_03:polySurface133
+    4300038: niao_03:polySurface134
+    4300040: niao_03:polySurface135
+    4300042: niao_03:Mesh6
+    4300044: niao_03:polySurface13
+    4300046: niao_03:polySurface104
+    4300048: niao_03:polySurface18
+    4300050: niao_03:polySurface20
+    4300052: niao_03:polySurface21
+    4300054: niao_03:polySurface28
+    4300056: niao_03:polySurface29
+    4300058: niao_03:polySurface31
+    4300060: niao_03:polySurface32
+    4300062: niao_03:polySurface33
+    4300064: niao_03:polySurface48
+    4300066: niao_03:polySurface49
+    4300068: niao_03:polySurface50
+    4300070: niao_03:polySurface51
+    4300072: niao_03:polySurface52
+    4300074: niao_03:polySurface117
+    4300076: niao_03:polySurface118
+    4300078: niao_03:polySurface119
+    4300080: niao_03:polySurface120
+    4300082: niao_03:polySurface121
+    4300084: niao_03:polySurface122
+    4300086: niao_03:polySurface123
+    4300088: niao_03:polySurface124
+    4300090: niao_03:polySurface125
+    4300092: niao_03:polySurface126
+    4300094: niao_03:polySurface127
+    4300096: niao_03:polySurface128
+    4300098: niao_03:polySurface129
+    4300100: niao_03:q1_unfold3d25:Mesh
+    4300102: niao_03:Mesh5
+    4300104: niao_03:polySurface13
+    4300106: niao_03:polySurface104
+    4300108: niao_03:polySurface18
+    4300110: niao_03:polySurface20
+    4300112: niao_03:polySurface21
+    4300114: niao_03:polySurface28
+    4300116: niao_03:polySurface29
+    4300118: niao_03:polySurface31
+    4300120: niao_03:polySurface32
+    4300122: niao_03:polySurface33
+    4300124: niao_03:polySurface48
+    4300126: niao_03:polySurface49
+    4300128: niao_03:polySurface50
+    4300130: niao_03:polySurface51
+    4300132: niao_03:polySurface52
+    4300134: niao_03:polySurface117
+    4300136: niao_03:polySurface118
+    4300138: niao_03:polySurface119
+    4300140: niao_03:polySurface120
+    4300142: niao_03:polySurface121
+    4300144: niao_03:polySurface122
+    4300146: niao_03:polySurface123
+    4300148: niao_03:polySurface124
+    4300150: niao_03:polySurface125
+    4300152: niao_03:polySurface126
+    4300154: niao_03:polySurface127
+    4300156: niao_03:polySurface128
+    4300158: niao_03:polySurface129
+    4300160: niao_03:Mesh
+    4300162: niao_03:Mesh5
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
